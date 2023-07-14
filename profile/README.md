@@ -1,4 +1,4 @@
-# Reinforz
+# Reinforz AI
 
 ## About Us
 Reinforz is an innovative platform for learners, students, and educators to collaborate, reinforce and share their learning with the help of artificial intelligence.
